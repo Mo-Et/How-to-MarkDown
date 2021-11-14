@@ -3,8 +3,8 @@
 ## C'est quoi ?
 Le MarkDown est un langage de balisage (_markup language_) qui permet de produire du texte formaté à partir de fichiers texte.
 
-Très similaire au HTML, le md a été développé par John Gruber en 2004, avec l'objectif de fournir un langage équivalent au HTML mais *lisible en texte brut*. 
-
+Très similaire au HTML, le md a été développé par John Gruber en 2004, avec l'objectif de fournir un langage équivalent au HTML mais **lisible en texte brut**. 
+m
 Techniquement, le md est traduit vers du HTML lorsqu'il est affiché par un programme qui l'interprète.
 
 ## Ça fait quoi ?
@@ -12,7 +12,7 @@ En md on peut faire tout ce qu'on fait en HTML :
 * Des listes,
 * des titres,
 * de l'_italique_,
-* du *gras*,
+* du **gras**,
 * des [liens hypertexte](https://www.markdownguide.org/)
 * du `code`
 
@@ -27,7 +27,7 @@ Les balises sont plus simples qu'en HTML.
 
 Pour les titres, on utilise des `#`. Un pour un titre H1 (ici, le titre de la page), deux pour un titre H2 _etc_.
 
-Le texte en *gras* se place entre des `*`. L'italique entre des `_`.
+Le texte en **gras** se place entre des `**`. L'*italique* entre des `_` ou des `*`.
 
 Pour faire une liste, il suffit de commencer chaque ligne de la liste par `*`.
 
